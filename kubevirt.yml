@@ -1,4 +1,4 @@
 # Use credential specified by AAP Inventory Source
-- plugin: redhat.openshift_virtualization.kubevirt
-  namespaces:
-    - vms
+plugin: redhat.openshift_virtualization.kubevirt
+namespaces:
+  - vms
